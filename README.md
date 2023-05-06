@@ -49,4 +49,4 @@ To use the application, navigate to the URL where the development server is runn
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or want to add a feature, please create an issue or submit a pull request. 
+Contributions are welcome! If you find a bug or want to add a feature, please create an issue or submit a pull request.  
