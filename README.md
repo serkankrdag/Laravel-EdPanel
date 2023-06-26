@@ -1,4 +1,4 @@
-# High School Education Panel
+# High School Education Panel 
 
 High School Education Panel is a web application developed using Laravel framework that provides various features related to managing academic activities for teachers, students, and administrators. The application provides features such as assignment submission, grade input, attendance tracking, and access to educational videos.
 
